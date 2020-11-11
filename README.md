@@ -9,5 +9,5 @@ An aspiring Front-End Engineer who has completed an immersive boot camp in Full-
 #### [Jammming](http://jammming-with-qd.surge.sh/) | [Repo](https://github.com/qundax/jammming)
 Jammming makes requests to the Spotify API to allow users to search the Spotify library, create a custom playlist, and save it to their Spotify account.
 
-#### Ravenous | [Repo](https://github.com/qundax/ravenous)
+#### [Ravenous](http://ravenous-qd.surge.sh/) | [Repo](https://github.com/qundax/ravenous)
 A Yelp-like clone made as part of Codecademy's "Building Front-End Applications with React" course.
